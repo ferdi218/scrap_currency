@@ -1,2 +1,2 @@
 source : https://www.google.com/finance
-target : csv
+result : exchange.csv
